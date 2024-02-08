@@ -1,7 +1,7 @@
 # FIFO Exercises - Operating System 
 
-This repository contains a list of exercise with FIFO (named pipe) from 
-Operating System course. All exercise are (or will be) commented to explain
+This repository contains a list of exercises with FIFO (named pipe) from 
+Operating System course. All exercises are (or will be) commented to explain
 every step of the program. 
 
 ## Exercise 1
