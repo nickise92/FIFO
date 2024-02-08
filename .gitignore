@@ -1,0 +1,8 @@
+## Build directories ##
+*/build/*
+
+## Binary files ##
+*/bin/*
+
+## Tests files ##
+*.sh
